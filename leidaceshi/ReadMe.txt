@@ -3,9 +3,11 @@
 ========================================================================
 
 本项目已实现同步串行信号的捕捉及解析，但尚有两个功能未实现：
+There are two features that haven't been completed:
 1.因未实现多线程运行，目前“停止”按钮功能未实现；
+  In this program,the "stop" feature hasn't been completed yet by using multithread; 
 2.仿真模块发送同步串行信号功能未实现。
-
+  Simulating to transmit sync-serial communication signal hasn't been completed.
 组成 leidaceshi 应用程序的每个文件的内容：
 
 leidaceshi.vcproj
